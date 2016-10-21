@@ -1,0 +1,15 @@
+{
+  "name": "privacy-git",
+  "version": "0.0.1",
+  "description": "share code with your friends safely using github",
+  "main": "privacyGit.js",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Weinan Liu. 503304900@qq.com",
+  "license": "ISC"
+}
