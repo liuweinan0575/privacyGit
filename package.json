@@ -8,7 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "node privacyGit.js commit",
+    "update": "node privacyGit.js update"
   },
   "author": "Weinan Liu. 503304900@qq.com",
   "license": "ISC"
