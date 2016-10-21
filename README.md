@@ -1,5 +1,4 @@
 #privacyGit
-========================
 
 > privacyGit is a node.js based application that aims to help us use [github](https://en.wikipedia.org/wiki/GitHub) securely.
 
